@@ -9,7 +9,7 @@ Step 1.5 Type in the row letter of your samples in line 23;
 Step 1.6 Type in the total number of your samples in line 30;
 Step 1.7 Run;
 Step 2 Run your samples.
-Step 2.1 Open file "batread_LCB" with Matlab;
+Step 2.1 Open file "batread_60-samples" with Matlab;
 Step 2.2 Type in the dir of your .fcs files in line 3;
 Step 2.3 Type in the total number of your background samples in line 6;
 Step 2.3 Type in the total number of your samples in line 7;
